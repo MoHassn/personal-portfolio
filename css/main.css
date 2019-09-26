@@ -131,3 +131,14 @@ figcaption {
 footer {
     background-color: #28a68980;
 }
+
+@media screen and (min-width: 550px) {
+   html,
+   body {
+       font: 18px/1.25em "Inconsolata", monospace;
+   }
+
+   nav {
+       width: 60%;
+   }
+}
