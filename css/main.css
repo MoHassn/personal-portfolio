@@ -142,3 +142,15 @@ footer {
        width: 60%;
    }
 }
+
+@media screen and (min-width: 720px) {
+    nav {
+        width: 50%;
+    }
+
+    .bio {
+        width: 720px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
